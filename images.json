@@ -1,4 +1,6 @@
 [
+    {"url": "https://live.staticflickr.com/3916/14168292928_31ec1ae5cb_b.jpg", "tag": "Flowers"},
+    {"url": "https://spoonuniversity.com/cdn-cgi/image/width=1920,format=auto,quality=90/https://s3.amazonaws.com/secretsaucefiles/photos/images/000/113/218/original/Baklava_2-1.jpeg?1485389400", "tag": "Food"},
     {"url": "https://live.staticflickr.com/7291/10623214235_115b3ac18d_b.jpg", "tag": "Nature"},
     {"url": "https://live.staticflickr.com/8238/8384792838_4350289870_b.jpg", "tag": "Animals"},
     {"url": "https://live.staticflickr.com/689/20815840526_ce0c35ce7d_b.jpg", "tag": "Nature"},
@@ -11,5 +13,5 @@
     {"url": "https://as1.ftcdn.net/v2/jpg/02/90/67/64/1000_F_290676401_x0kmrvHLfTe3kipdsYxrUsmpIXvl5b1s.jpg", "tag": "Fashion"},
     {"url": "https://t4.ftcdn.net/jpg/04/03/14/97/240_F_403149729_hl07xJ7ebsLiEcEq9qiW8mtHKWw6SVo0.jpg", "tag": "Cars"},
     {"url": "https://t3.ftcdn.net/jpg/02/76/94/12/240_F_276941222_BXSMvCyBP0YjmKXqcKP3Aqi4qE8uNkMO.jpg", "tag": "Books"},
-    {"url": "https://t3.ftcdn.net/jpg/02/97/32/00/240_F_297320017_9h2QuBBUpXBxjlkScw0upwrSaaS3gVTf.jpg", "tag": "Movies"}
+    {"url": "https://t3.ftcdn.net/jpg/02/97/32/00/240_F_297320017_9h2QuBBUpXBxjlkScw0upwrSaaS3gVTf.jpg", "tag": "Movies"}    
 ]
