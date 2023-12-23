@@ -1,4 +1,5 @@
-﻿[
+{
+    "faqs": [
     {
         "#": "1",
         "Question": "How do I download a brand logo?",
@@ -27,7 +28,7 @@
         "#": "5",
         "Question": "How can I navigate to the Icons section?",
         "Answer": "To access the Icons section, use the main navigation menu and click on \"Icons.\"",
-        "Topic": "Website Navigation"
+        "Topic": "Website"
     },
     {
         "#": "6",
@@ -45,13 +46,13 @@
         "#": "8",
         "Question": "Is there a search function for finding specific assets? (rephrase for filters)",
         "Answer": "Yes, use the search bar at the top of the page to quickly find specific brand assets based on keywords.",
-        "Topic": "Website Navigation"
+        "Topic": "Website"
     },
     {
         "#": "9",
         "Question": "How do I provide feedback on the website?",
         "Answer": "We welcome your feedback! Navigate to the Contact Us page and use the provided form to share your thoughts and suggestions.",
-        "Topic": "Website Feedback"
+        "Topic": "Website"
     },
     {
         "#": "10",
@@ -75,7 +76,7 @@
         "#": "13",
         "Question": "How do I report a technical issue with the website?",
         "Answer": "If you encounter any technical issues, report them through the Technical Support form on the Contact Us page. Include details for a faster resolution.",
-        "Topic": "Website Support"
+        "Topic": "Website"
     },
     {
         "#": "14",
@@ -87,7 +88,7 @@
         "#": "15",
         "Question": "How long do you support the website?",
         "Answer": "6 months",
-        "Topic": "Website Support"
+        "Topic": "Website"
     },
     {
         "#": "16",
@@ -105,7 +106,7 @@
         "#": "18",
         "Question": "How do I access the brand assets on mobile devices?",
         "Answer": "The website is optimized for mobile use. Simply navigate to the website on your mobile browser to access and download brand assets on the go.",
-        "Topic": "Website Navigation"
+        "Topic": "Website"
     },
     {
         "#": "19",
@@ -159,7 +160,7 @@
         "#": "27",
         "Question": "How do I reset my password if I forget it?",
         "Answer": "Use the \"Forgot Password\" link on the login page to initiate the password reset process. Follow the instructions sent to your registered email address.",
-        "Topic": "Website Navigation"
+        "Topic": "Website"
     },
     {
         "#": "28",
@@ -171,7 +172,7 @@
         "#": "29",
         "Question": "What are the system requirements for optimal website performance?",
         "Answer": "The website is designed to be compatible with modern web browsers. Ensure your browser is up to date for the best performance and user experience.",
-        "Topic": "Website Navigation"
+        "Topic": "Website"
     },
     {
         "#": "30",
@@ -197,4 +198,7 @@
         "Answer": "We love hearing success stories! Share your experiences by submitting a Success Story through the provided form on the Success Stories page.",
         "Topic": "Social Media"
     }
-]
+],
+
+"topics":["Downloads", "Guidelines", "Mockups", "Social Media", "Usage", "Website"]
+}
