@@ -1,5 +1,4 @@
-{
-    "faqs": [
+[
     {
         "#": "1",
         "Question": "How do I download a brand logo?",
@@ -198,7 +197,4 @@
         "Answer": "We love hearing success stories! Share your experiences by submitting a Success Story through the provided form on the Success Stories page.",
         "Topic": "Social Media"
     }
-],
-
-"topics":["Downloads", "Guidelines", "Mockups", "Social Media", "Usage", "Website"]
-}
+]
